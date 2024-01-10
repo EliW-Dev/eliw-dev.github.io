@@ -1,0 +1,106 @@
+
+.navbar-custom {
+    background-color: #1F2833;
+}
+ 
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: #45A29E;
+    font-weight: bold;
+}
+
+.nav-link {
+	color: #45A29E;
+}
+
+.nav-link:hover {
+	color: lightgray;
+}
+
+.btn-link:focus,
+.btn-link:active {
+  outline: none;
+  box-shadow: none;
+}
+
+body {
+  background-color: #0B0C10;
+}
+
+.footer-custom{
+  background-color:#1F2833;
+  color: #C5C6C7;
+  position: absolute;
+  bottom: 0%;
+  width: 100%;
+ }
+
+ #headingTwo {
+  background-color: #000000;
+  color: #C5C6C7;
+ }
+
+ #myh1 {
+  color: #C5C6C7;
+  padding: 20px 0 20px 0;
+ }
+
+ #mybodytext {
+  color: #C5C6C7;
+  font-size: 1.8em;
+ }
+
+ .project-title-text {
+  color: #769c9a;
+  margin-bottom: 20px;
+ }
+
+ .project-body-text {
+  color: #C5C6C7;
+ }
+
+ .body-text {
+  color: #C5C6C7;
+ }
+
+ .body-image-subtext {
+  color: #C5C6C7;
+  font-size: 0.8em;
+  margin-left: 5px;
+ }
+ .project {
+  box-shadow: 0 5px 5px -5px #3c536d;
+  padding-bottom: 20px;
+  margin-top: 30px;
+ }
+
+ .displayimage {
+  box-shadow: 0 0 12px 3px #1F2833;
+  margin-bottom: 20px;
+ }
+
+ .centredimage {
+  display: flex;
+ }
+
+ .portfolio {
+  padding-bottom: 100px;
+ }
+
+ .store-badge {
+  max-width: 18%;
+  margin-right: 20px;
+  margin-top: 20px;
+  outline: 1px solid #C5C6C7;
+ }
+
+ .store-badge-google {
+  max-width: 23%;
+  margin-right: 20px;
+  margin-top: 20px;
+ }
+
+ .hiddenlink {
+  text-decoration: none;
+  color: inherit;
+ }
