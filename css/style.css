@@ -1,4 +1,10 @@
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .navbar-custom {
     background-color: #1F2833;
 }
@@ -7,6 +13,20 @@
 .navbar-custom .navbar-text {
     color: #45A29E;
     font-weight: bold;
+}
+
+.navbar-toggler{
+  width: 47px;
+  height: 34px;
+  border-color: #45A29E;
+}
+
+.navbar-toggler .line{
+  width: 100%;
+  float: left;
+  height: 2px;
+  background-color: #45A29E;
+  margin-bottom: 5px;
 }
 
 .nav-link {
