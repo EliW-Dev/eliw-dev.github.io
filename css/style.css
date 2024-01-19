@@ -116,6 +116,7 @@ body {
 
  .store-badge-simple {
   width: 180px;
+  max-width: 23%;
   margin-top: 5px;
  }
 
