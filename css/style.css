@@ -114,6 +114,11 @@ body {
   outline: 1px solid #C5C6C7;
  }
 
+ .store-badge-simple {
+  width: 180px;
+  margin-top: 5px;
+ }
+
  .store-badge-google {
   max-width: 23%;
   margin-right: 20px;
@@ -123,4 +128,14 @@ body {
  .hiddenlink {
   text-decoration: none;
   color: inherit;
+ }
+
+ .mail {
+  text-decoration: none;
+  color: inherit;
+ }
+
+ .contact-mail {
+  text-decoration: none;
+  color: #C5C6C7;
  }
